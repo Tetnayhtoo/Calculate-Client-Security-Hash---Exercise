@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="JN0bqS0020y0--sRsSR8bA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com" CVScreenId="6a96c230-b0da-46d2-9c77-f50e2a62dae8" CvTextArea="331, 456, 1205, 42" CvTextArgument="Welcome, shinigamikoko112000@gmail.com to System 1." CvType="Text" DesignTimeRectangle="334, 451, 1250, 50" DesignTimeScaleFactor="1.25" ElementType="Text" FuzzySelectorArgument="&lt;webctrl type='' tag='H1' class='' aaname='Welcome,  to System 1.' check:innerText='Welcome, shinigamikoko112000@gmail.com to System 1.' /&gt;" Guid="5d36f9a4-a443-4e06-8c26-cfee772424d9" ScopeSelectorArgument="&lt;html app='msedge.exe' title='ACME System 1 - Dashboard' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="16e733614b15c716867f5e45e1609bb3.png" xmlns="">0m3FQeX6D-UKTuG0j6VElQg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

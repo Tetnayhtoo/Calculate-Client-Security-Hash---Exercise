@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="fxH3jILZk0KWFqAAdd70DA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/work-items/105179666" CVScreenId="82976c52-e63e-489d-b3fe-ba0730ec0617" CvTextArea="254, 275, 623, 38" CvTextArgument="Work Items - Work Item Details" CvType="Text" DesignTimeRectangle="257, 270, 1425, 61" DesignTimeScaleFactor="1.25" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='H1' type='' class='page-header' aaname='                                                                                                                                                                                     Work Items                                                                                                                                         -                                                 Work Item Details                                                         ' check:innerText='Work Items - Work Item Details' /&gt;" Guid="fec21e06-6107-4bee-916b-25151fa1a322" ScopeSelectorArgument="&lt;html app='msedge.exe' title='ACME System 1 - Work Items' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="82976c52-e63e-489d-b3fe-ba0730ec0617" CvTextArea="445, 370, 157, 16" CvTextArgument="/ Work Item Details" CvType="Text" DesignTimeRectangle="442, 366, 160, 25" ElementType="ListItem" FuzzySelectorArgument="&lt;webctrl isleaf='1' tag='LI' type='' class='breadcrumb-item active' aaname='Work Item Details' check:innerText='Work Item Details' /&gt;" Guid="8544379a-4ccc-4fb8-b1e0-943cd792ad0c" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="9f3d019aa43f49fd8dc7ee615a5a5cbb.png" xmlns="">0Tj1EyRSDZkiQhVdr_pimKA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

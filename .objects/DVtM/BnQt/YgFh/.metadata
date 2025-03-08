@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Attach Browser 'chrome.exe ACME'",
+  "Type": "Screen",
+  "Id": "YgFh6UikikarvHbrkZAxTw",
+  "Reference": "pTqxF6lgKUeGtDAtxZ2i7A/YgFh6UikikarvHbrkZAxTw",
+  "ParentRef": "pTqxF6lgKUeGtDAtxZ2i7A/BnQtHZ1t20eVP7v0TLnV1Q",
+  "Created": "2025-03-08T07:31:55.4858506Z",
+  "Updated": "2025-03-08T07:31:55.4858506Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

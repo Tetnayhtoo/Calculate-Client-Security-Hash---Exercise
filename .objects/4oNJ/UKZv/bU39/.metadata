@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Browser - Chrome(1)",
+  "Type": "Screen",
+  "Id": "bU399cB6gEWy7XA18jmZew",
+  "Reference": "pTqxF6lgKUeGtDAtxZ2i7A/bU399cB6gEWy7XA18jmZew",
+  "ParentRef": "pTqxF6lgKUeGtDAtxZ2i7A/UKZvBl24KUSvZk7okTgFwA",
+  "Created": "2025-03-07T19:11:45.9789392Z",
+  "Updated": "2025-03-07T19:11:45.9789392Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

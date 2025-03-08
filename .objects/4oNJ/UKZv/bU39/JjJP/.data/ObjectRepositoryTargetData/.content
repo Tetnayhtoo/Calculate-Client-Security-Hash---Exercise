@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="ep-esgB6L0O1xaR8GpbDmw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com" CVScreenId="502529c6-d08d-4ece-92ba-bea667ed41a5" CvTextArea="331, 456, 1075, 43" CvTextArgument="Welcome, Tetnayhtoo.psn@gmail.com to System 1." CvType="Text" DesignTimeRectangle="334, 451, 1250, 50" DesignTimeScaleFactor="1.25" ElementType="Text" FuzzySelectorArgument="[string.Format(&quot;&lt;webctrl type='' tag='H1' class='' aaname='Welcome, {0} to System 1.' check:innerText='Welcome, Tetnayhtoo.psn@gmail.com to System 1.' /&gt;&quot;, Username)]" Guid="cddb380e-8786-4abe-bf17-783d26f1d683" ScopeSelectorArgument="&lt;html app='msedge.exe' title='ACME System 1 - Dashboard' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="502529c6-d08d-4ece-92ba-bea667ed41a5" CvTextArea="334, 516, 716, 16" CvTextArgument="If this is your first time logging in, please make sure to go to User Options -&gt; Reset Test Data" CvType="Text" DesignTimeRectangle="334, 513, 1250, 25" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='P' type='' class='' aaname='If this is your first time logging in, please make sure to go to User Options -&amp;gt; Reset Test Data' check:innerText='If this is your first time logging in, please make sure to go to User Options -&amp;gt; Reset Test Data' /&gt;" Guid="71388600-19d2-4534-8702-f1f8557b9701" SearchSteps="FuzzySelector, CV" />
+          <Target CVScreenId="502529c6-d08d-4ece-92ba-bea667ed41a5" CvTextArea="246, 275, 221, 37" CvTextArgument="Dashboard" CvType="Text" DesignTimeRectangle="247, 270, 1425, 61" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='H1' type='' class='page-header' aaname='                                                 Dashboard                                     ' check:innerText='Dashboard' /&gt;" Guid="d981f7de-4cd6-4be8-9973-d8cfd84c99e6" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="ea4e813a78cc79953ceb529debef9689.png" xmlns="">0Zvuv124oXUmX458wrq4FPw</imageRef>
+    </TargetAnchorable>
+    <scg:List x:TypeArguments="ObjectRepositoryVariableData" x:Key="Variables" Capacity="1">
+      <ObjectRepositoryVariableData Name="Username" />
+    </scg:List>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

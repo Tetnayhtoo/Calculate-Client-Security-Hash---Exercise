@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="iJpd0xu_t0q5y8yExbO8Jg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com" CVScreenId="b0ae81c3-bf3c-47a3-88fe-a3ce45e9a98e" CvTextArea="330, 457, 1075, 43" CvType="AnyWordGroup" DesignTimeRectangle="334, 454, 1250, 50" DesignTimeScaleFactor="1.25" ElementType="Text" FullSelectorArgument="&lt;webctrl css-selector='body&amp;gt;div&amp;gt;div&amp;gt;h1' tag='H1' /&gt;" FuzzySelectorArgument="&lt;webctrl type='' tag='H1' class='' aaname='Welcome,  to System 1.' /&gt;" Guid="c0a1a601-7c9b-4d5e-84c3-411776ad03fc" ImageBase64="" ScopeSelectorArgument="&lt;html app='chrome.exe' title='ACME System 1 - Dashboard' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="b0ae81c3-bf3c-47a3-88fe-a3ce45e9a98e" CvTextArea="245, 277, 221, 37" CvTextArgument="Dashboard" CvType="Text" DesignTimeRectangle="246, 273, 1425, 61" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='H1' type='' class='page-header' aaname='                                                 Dashboard                                     ' check:innerText='Dashboard' /&gt;" Guid="4d6b6513-b933-496f-970c-751c47d4e255" SearchSteps="FuzzySelector, CV" />
+          <Target CVScreenId="b0ae81c3-bf3c-47a3-88fe-a3ce45e9a98e" CvTextArea="332, 517, 718, 18" CvTextArgument="If this is your first time logging in, please make sure to go to User Options -&gt; Reset Test Data" CvType="Text" DesignTimeRectangle="334, 516, 1250, 25" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='P' type='' class='' aaname='If this is your first time logging in, please make sure to go to User Options -&amp;gt; Reset Test Data' check:innerText='If this is your first time logging in, please make sure to go to User Options -&amp;gt; Reset Test Data' /&gt;" Guid="8588310e-4018-4904-bc95-0b7835018bae" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="f650fc3c9340755320a6283bd32feb59.png" xmlns="">0Yv0Ykz7v9EuGem_xk8JFiA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

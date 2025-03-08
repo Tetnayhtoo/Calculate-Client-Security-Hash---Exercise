@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="gXpyDNkU002J4l3nvPEPiA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="sha1-online.com" CVScreenId="7b14c996-0f9d-4e0a-a3ba-ecf06c7d7628" CvTextArea="781, 429, 586, 22" CvType="AnyWordGroup" DesignTimeRectangle="782, 426, 585, 27" DesignTimeScaleFactor="1.25" ElementType="Text" FuzzySelectorArgument="&lt;webctrl id='result-sha1' tag='SPAN' type='' class='' /&gt;" Guid="dbb59228-e24e-43ac-9e7d-2870723c5d55" ScopeSelectorArgument="&lt;html app='msedge.exe' title='SHA1 online' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="7b14c996-0f9d-4e0a-a3ba-ecf06c7d7628" CvTextArea="570, 429, 797, 22" CvTextArgument="Result for sha1: 039c501ac8dfcac91c6f05601cee876e1cc07e17" CvType="Text" DesignTimeRectangle="497, 426, 945, 27" ElementType="Text" FuzzySelectorArgument="&lt;webctrl type='' tag='P' class='' aaname='Result for sha1:  ' check:innerText='Result for sha1:  039c501ac8dfcac91c6f05601cee876e1cc07e17' /&gt;" Guid="4e136452-d0b1-45e2-8e19-1392164ea8b1" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="33bd409be9b261dc0cea2e5498ee5624.png" xmlns="">0RkNi7fQsM0SgUpRoM06Y0g</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

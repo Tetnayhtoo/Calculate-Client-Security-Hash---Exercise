@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="hMMPb-gT-U2uUTNyGIfzJw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/work-items/update/105179666" CVScreenId="6e0098dd-16b2-4e03-80f4-d7e67a5a50ad" CvTextArea="65, 277, 183, 26" CvTextArgument="Update Work Item" CvType="Text" DesignTimeRectangle="66, 278, 430, 24" DesignTimeScaleFactor="1.25" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='H4' type='' class='' aaname='Update Work Item' check:innerText='Update Work Item' /&gt;" Guid="ebe80f79-b841-4a7c-96d7-742ac5e181cb" ScopeSelectorArgument="&lt;html app='msedge.exe' htmlwindowname='WI-Update' title='ACME System 1' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="6e0098dd-16b2-4e03-80f4-d7e67a5a50ad" CvTextArea="46, 211, 142, 20" CvTextArgument="Update Work Item" CvType="Text" DesignTimeRectangle="29, 195, 504, 51" ElementType="Text" FuzzySelectorArgument="&lt;webctrl class='panel-heading' tag='DIV' type='' aaname='Update Work Item' check:innerText='Update Work Item' /&gt;" Guid="f9e3756b-9656-414a-84a3-e3f930fedc25" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="0bd54b83817fe7d6d4aac365e81ed83e.png" xmlns="">0Vu2WWTOZWEqfP7CTDSXzdA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

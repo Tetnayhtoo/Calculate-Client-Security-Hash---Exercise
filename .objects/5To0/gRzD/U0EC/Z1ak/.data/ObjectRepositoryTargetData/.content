@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="sD3tkR1jkUKkzsE6xgIBoA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/work-items/77141476" DesignTimeRectangle="364, 466, 504, 137" DesignTimeScaleFactor="1.25" FuzzySelectorArgument="&lt;webctrl class='col-lg-5' tag='DIV' type='' aaname='                                                                       ' /&gt;" Guid="4e827b3b-203d-4ee0-ad72-e14a58e6e631" ScopeSelectorArgument="&lt;html app='msedge.exe' title='ACME System 1 - Work Items' /&gt;" SearchSteps="FuzzySelector" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="df73cd7b-1b3b-4448-b894-55023b44cf80" CvTextArea="362, 412, 238, 16" CvTextArgument="Calculate Client Security Hash" CvType="Text" DesignTimeRectangle="345, 396, 1248, 51" ElementType="Text" FuzzySelectorArgument="&lt;webctrl class='panel-heading' tag='DIV' type='' aaname='Calculate Client Security Hash' check:innerText='Calculate Client Security Hash' /&gt;" Guid="6265df5d-a1b7-4485-b8c5-1e76412276e0" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="09b54d9382685b93bf383ec8f8887aeb.png" xmlns="">0tfGmDu5kp06TNRHcdY5yOA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,14 @@
+﻿{
+  "Name": "QS86336-Donn Chabot-Ger…",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "WcbPsWo_IE-GAPf-vQLG6g",
+  "Reference": "pTqxF6lgKUeGtDAtxZ2i7A/WcbPsWo_IE-GAPf-vQLG6g",
+  "ParentRef": "pTqxF6lgKUeGtDAtxZ2i7A/F9TZt1-L_Ee8mvyhku6AGw",
+  "Created": "2025-03-08T09:06:06.4242185Z",
+  "Updated": "2025-03-08T09:06:06.4242185Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

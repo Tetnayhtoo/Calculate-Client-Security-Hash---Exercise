@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="6S5gGcYXN0evtdPE__dA1w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="sha1-online.com" CVScreenId="f1f84c00-d5dd-461d-8202-96a9b710e869" CvElementArea="1145, 383, 61, 29" CvTextArea="1155, 389, 41, 15" CvTextArgument="hash" CvType="Button" DesignTimeRectangle="1148, 384, 57, 26" DesignTimeScaleFactor="1.25" ElementType="Button" FuzzySelectorArgument="&lt;webctrl tag='INPUT' type='submit' class='' aaname='hash' check:text='hash' /&gt;" Guid="cb5bcda3-7cdd-4c68-a2f9-4f068bc1827a" ScopeSelectorArgument="&lt;html app='msedge.exe' title='SHA1 online' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="f1f84c00-d5dd-461d-8202-96a9b710e869" CvElementArea="733, 383, 414, 28" CvType="InputBox" DesignTimeRectangle="733, 384, 415, 26" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl id='textToHashId' tag='INPUT' type='text' class='focus-visible' aaname='' /&gt;" Guid="37d876a1-f66d-4ab5-b7d0-4d0fb98beb77" SearchSteps="FuzzySelector, CV" />
+          <Target CVScreenId="f1f84c00-d5dd-461d-8202-96a9b710e869" CvElementArea="913, 436, 113, 27" CvType="InputBox" DesignTimeRectangle="915, 437, 109, 23" ElementType="DropDown" FuzzySelectorArgument="&lt;webctrl tag='SELECT' type='' class='' aaname='' /&gt;" Guid="107e3c4d-299f-480c-974a-b721365b56a3" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="8333b18beb00834ccfef57528ab6bd95.png" xmlns="">0t6IFdZjPLEqxAFYm_vuiUw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

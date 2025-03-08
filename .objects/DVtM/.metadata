@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Attach Browser 'chrome.exe ACME'",
+  "Type": "App",
+  "Id": "DVtMVLmgWkOqLgMS7kCMyw",
+  "Reference": "pTqxF6lgKUeGtDAtxZ2i7A/DVtMVLmgWkOqLgMS7kCMyw",
+  "Created": "2025-03-08T07:31:55.4501259Z",
+  "Updated": "2025-03-08T07:31:55.4501259Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

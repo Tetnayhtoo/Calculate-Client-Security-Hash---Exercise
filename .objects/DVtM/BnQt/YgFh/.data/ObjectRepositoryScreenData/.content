@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="s0DemwakGkKYGxcMzs3xRg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="0, 0, 0, 0" Selector="&lt;html app='msedge.exe' title='ACME System 1 - Dashboard' /&gt;">
+      <imageRef attrName="InformativeScreenshot" originalValue="c70f55645da89ddb132b078a5faf9bd7.png" xmlns="">0oRtv2ljZ7k2wQ38hjsBvUA</imageRef>
+    </TargetApp>
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>

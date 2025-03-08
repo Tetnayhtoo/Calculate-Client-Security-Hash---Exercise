@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="NgacqrKIBkq9n88eQEi3Mg" Reference="pTqxF6lgKUeGtDAtxZ2i7A/LAZQYBO46EmcCYS5AKgOQw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/login" CVScreenId="3a0373c1-8df7-4ba5-bd50-484f10421d34" CvTextArea="341, 455, 501, 26" CvTextArgument="To continue, please authenticate here" CvType="Text" DesignTimeRectangle="344, 453, 606, 33" DesignTimeScaleFactor="1.25" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='H3' type='' class='' aaname='To continue, please authenticate here' check:innerText='To continue, please authenticate here' /&gt;" Guid="e4b05d53-79a4-421d-bbce-0fa7162d9537" ScopeSelectorArgument="&lt;html app='msedge.exe' title='ACME System 1 - Log In' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="1">
+          <Target CVScreenId="3a0373c1-8df7-4ba5-bd50-484f10421d34" CvTextArea="330, 370, 62, 20" CvTextArgument="/ Login" CvType="Text" DesignTimeRectangle="327, 368, 65, 25" ElementType="ListItem" FuzzySelectorArgument="&lt;webctrl isleaf='1' tag='LI' type='' class='breadcrumb-item active' aaname='Login' check:innerText='Login' /&gt;" Guid="bc5cd210-c5e1-4ae8-868f-e2ead104bdad" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="a0330b8f2a1b1885e45891cf79f52f61.png" xmlns="">07AakccuuI0mbT_UaVqXHAw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

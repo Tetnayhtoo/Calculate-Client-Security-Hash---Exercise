@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Toggle navigation ACME …",
+  "Type": "Element",
+  "Id": "bJK31-BmKE6Wl5r6vFnbDQ",
+  "Reference": "pTqxF6lgKUeGtDAtxZ2i7A/bJK31-BmKE6Wl5r6vFnbDQ",
+  "ParentRef": "pTqxF6lgKUeGtDAtxZ2i7A/U0EC7hvLOkmL-uw99CoXLA",
+  "Created": "2025-03-08T06:58:34.7503244Z",
+  "Updated": "2025-03-08T06:58:34.7503244Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

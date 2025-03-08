@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="61eUl5JnPEysPjLLFR7lFw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/work-items/77141476" DesignTimeRectangle="14, 101, 1910, 982" DesignTimeScaleFactor="1.25" FuzzySelectorArgument="&lt;webctrl tag='BODY' type='' class='' aaname='                          ' /&gt;" Guid="e05c1051-7326-4c30-a357-f731fc3d3e90" ScopeSelectorArgument="&lt;html app='msedge.exe' title='ACME System 1 - Work Items' /&gt;" SearchSteps="FuzzySelector" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="fcb47335c588f6da19e14f292827e848.png" xmlns="">0cCW3aMbglUy4YBk6JEtOuw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

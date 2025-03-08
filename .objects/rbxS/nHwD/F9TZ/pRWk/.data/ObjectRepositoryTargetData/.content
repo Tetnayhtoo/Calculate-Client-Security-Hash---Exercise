@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="KEPyaLXo6UW9ijzYlqWuKQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="sha1-online.com" CVScreenId="9f872bcb-8307-4862-aa6b-2fb35cc37565" CvElementArea="281, 439, 417, 29" CvType="InputBox" DesignTimeRectangle="283, 441, 415, 26" DesignTimeScaleFactor="1.25" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl id='textToHashId' tag='INPUT' type='text' class='' aaname='' /&gt;" Guid="58bc09ca-8181-4ddc-8a5c-fe9464cb258a" ScopeSelectorArgument="&lt;html app='msedge.exe' title='SHA1 online' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="9f872bcb-8307-4862-aa6b-2fb35cc37565" CvElementArea="459, 469, 60, 30" CvTextArea="469, 475, 40, 16" CvTextArgument="hash" CvType="Button" DesignTimeRectangle="462, 471, 57, 27" ElementType="Button" FuzzySelectorArgument="&lt;webctrl tag='INPUT' type='submit' class='' aaname='hash' check:text='hash' /&gt;" Guid="30fff61d-18ef-44f2-960f-58ec33aee162" SearchSteps="FuzzySelector, CV" />
+          <Target DesignTimeRectangle="257, 345, 467, 70" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='H1' type='' class='' aaname='SHA1 and other hash functions online generator' check:innerText='SHA1 and other hash functions online generator' /&gt;" Guid="13ea47a5-32b2-4439-82d8-e1ed2719071f" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="4159df75c946f9a6bcac784da7ed192f.png" xmlns="">0bxEjibnhgkeuSBLmxgosrA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

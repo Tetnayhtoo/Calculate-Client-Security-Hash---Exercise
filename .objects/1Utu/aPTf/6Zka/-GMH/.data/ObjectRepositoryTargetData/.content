@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="h9-5NILT4UKgo2IJJp0EvQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="academy.uipath.com/learning-plans/automation-developer-professional-training-(v2023.10)" CVScreenId="80497b86-64fc-4fc5-a823-b62ca755b4ad" CvTextArea="275, 160, 142, 20" CvTextArgument="Update Work Item" CvType="Text" DesignTimeRectangle="258, 144, 1423, 51" DesignTimeScaleFactor="1.25" ElementType="Text" FuzzySelectorArgument="&lt;webctrl class='panel-heading' tag='DIV' type='' aaname='Update Work Item' check:innerText='Update Work Item' /&gt;" Guid="40b22f1c-971e-4ffe-83ed-564c37a8bea0" ScopeSelectorArgument="&lt;html app='chrome.exe' htmlwindowname='WI-Update' title='ACME System 1' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="80497b86-64fc-4fc5-a823-b62ca755b4ad" CvTextArea="294, 227, 182, 25" CvTextArgument="Update Work Item" CvType="Text" DesignTimeRectangle="295, 227, 1348, 24" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='H4' type='' class='' aaname='Update Work Item' check:innerText='Update Work Item' /&gt;" Guid="73bdc884-eb24-457a-837f-f317502dcf10" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="e9efad21394659c9f731e2eaeaa0cf41.png" xmlns="">0W5Td4vA6PUaTXIJV6sJ_bw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

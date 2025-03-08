@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="0r3iT-gcm0SM4LM8w-bOMw" Reference="pTqxF6lgKUeGtDAtxZ2i7A/37iAeAZhvUWAZJI7mp7IBA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="-9, -9, 1938, 1098" BrowserType="Edge" ContentHash="jOKCsfwx4U2TT_MOZtQ30g" IconBase64="iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAABbSURBVDhPY3h1VOw/DHOoHyEZM8A0Us0AUl2E1QBkmhAmaAAhFxFlADKNjkk2AN1FZBmATFNkAAiTbQAMk2QADJNlAC6M1wBsNqJjnAYQi1EMIMZGdAw3gFwMAAOUOX1CmNE5AAAAAElFTkSuQmCC" Reference="pTqxF6lgKUeGtDAtxZ2i7A/37iAeAZhvUWAZJI7mp7IBA" Selector="&lt;html app='msedge.exe' title='SHA1 online' /&gt;" Url="[in_SHA1URL]" Version="V2">
+      <imageRef attrName="InformativeScreenshot" originalValue="3651a7f87e9c44805b389fc9dc118207.jpg" xmlns="">04NugLXKNyka4jExC_wkhRQ</imageRef>
+    </TargetApp>
+    <scg:List x:TypeArguments="ObjectRepositoryVariableData" x:Key="Variables" Capacity="1">
+      <ObjectRepositoryVariableData IsVariable="False" Name="in_SHA1URL" />
+    </scg:List>
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>

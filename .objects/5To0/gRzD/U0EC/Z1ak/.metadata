@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Calculate Client Securi…",
+  "Type": "Element",
+  "Id": "Z1akCUxjn0mC5vdDBRt2Zg",
+  "Reference": "pTqxF6lgKUeGtDAtxZ2i7A/Z1akCUxjn0mC5vdDBRt2Zg",
+  "ParentRef": "pTqxF6lgKUeGtDAtxZ2i7A/U0EC7hvLOkmL-uw99CoXLA",
+  "Created": "2025-03-08T06:59:22.5781054Z",
+  "Updated": "2025-03-08T06:59:22.5781054Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

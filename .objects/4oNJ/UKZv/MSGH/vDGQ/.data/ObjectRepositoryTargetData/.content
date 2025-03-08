@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="o5cmKLlxb0WNaKUS0wetVw" Reference="pTqxF6lgKUeGtDAtxZ2i7A/vDGQKB9aKU2TsHeU1zqp2A" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/login" CVScreenId="7f69d550-1e1f-4482-b4a3-5fc39931b0d3" ContentHash="-8SySaggw02xW5jzFXC5VQ" CvElementArea="331, 800, 78, 45" CvTextArea="347, 812, 45, 20" CvTextArgument="Login" CvType="Button" DesignTimeRectangle="334, 774, 74, 42" DesignTimeScaleFactor="1.25" ElementType="Button" FuzzySelectorArgument="&lt;webctrl tag='BUTTON' type='submit' class='btn btn-primary' aaname='                             Login                         ' check:innerText='Login' /&gt;" Guid="d7d91097-90e2-4440-bf89-1f5bdae60f10" ImageBase64="" Reference="pTqxF6lgKUeGtDAtxZ2i7A/vDGQKB9aKU2TsHeU1zqp2A" ScopeSelectorArgument="&lt;html app='msedge.exe' title='ACME System 1 - Log In' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="2">
+          <Target CVScreenId="7f69d550-1e1f-4482-b4a3-5fc39931b0d3" CvTextArea="354, 754, 120, 17" CvTextArgument="Remember Me" CvType="Text" DesignTimeRectangle="355, 724, 119, 25" ElementType="Text" FullSelectorArgument="&lt;webctrl class='form-check-label' tag='LABEL' /&gt;" FuzzySelectorArgument="&lt;webctrl class='form-check-label' tag='LABEL' type='' aaname='                                         Remember Me                                     ' check:innerText='Remember Me' /&gt;" Guid="b611eae7-1879-47b2-8bf1-ae636ab1b9d7" SearchSteps="Selector, FuzzySelector, CV" />
+          <Target CVScreenId="02b0d7ca-2ff1-4d91-8c9e-bd0d504f850b" CvElementArea="410, 771, 218, 46" CvTextArea="427, 784, 185, 19" CvTextArgument="Forgot Your Password?" CvType="Button" DesignTimeRectangle="413, 774, 214, 42" ElementType="Text" FullSelectorArgument="&lt;webctrl aaname='                                 Forgot Your Password?                             ' tag='A' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='                                 Forgot Your Password?                             ' tag='A' type='' class='btn bg-warning' check:innerText='Forgot Your Password?' /&gt;" Guid="2a874c29-d920-45bb-962f-40b8d3274342" SearchSteps="Selector, FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="94c7c718a232916805e960367a4c797d.png" xmlns="">0DiD8FSWtM0Gzxq3XuCklBQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="UYAPcN-VpESAUqH7gJ3B8w" Reference="pTqxF6lgKUeGtDAtxZ2i7A/F9TZt1-L_Ee8mvyhku6AGw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="-9, -9, 1938, 1098" BrowserType="Edge" ContentHash="njiKufU850GhNscKnv7MDA" IconBase64="iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAABbSURBVDhPY3h1VOw/DHOoHyEZM8A0Us0AUl2E1QBkmhAmaAAhFxFlADKNjkk2AN1FZBmATFNkAAiTbQAMk2QADJNlAC6M1wBsNqJjnAYQi1EMIMZGdAw3gFwMAAOUOX1CmNE5AAAAAElFTkSuQmCC" Reference="pTqxF6lgKUeGtDAtxZ2i7A/F9TZt1-L_Ee8mvyhku6AGw" Selector="&lt;html app='msedge.exe' title='SHA1 online' /&gt;" Version="V2">
+      <imageRef attrName="InformativeScreenshot" originalValue="d4c2087b131ba5ceec07e5acb2179142.jpg" xmlns="">0A0J8kBCl1kOLv217GFCanQ</imageRef>
+    </TargetApp>
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>
